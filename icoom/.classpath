@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/baxin/Downloads/mysql-connector-java-5.0.8-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/baxin/Downloads/Swing样式大全（全56种经典）/5种经典的Alloy和liquidlnf/liquidlnf.jar"/>
+	<classpathentry kind="lib" path="C:/Users/baxin/Downloads/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/baxin/Downloads/jsoup-1.12.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/baxin/Downloads/lombok-1.16.18.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
